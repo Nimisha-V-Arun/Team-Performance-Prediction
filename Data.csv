@@ -1,0 +1,334 @@
+teamName,Gender,Personality,EI,SI,TF,JP,workedEarlier,workAgain,Difficulty,equalContribution,appreciation,cooperation,freedom,Improvement,Temperament
+1,Male,ENTJ-T,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,4,4,4,4,5,Yes,Rationals
+1,Male,Silent,Introvert,Sensation,Feeling,Perception,No,No,4,2,3,2,5,Yes,Artisans
+1,Male,ESTJ-T,Extrovert,Sensation,Thinking,Judgement,Yes,Yes,4,5,2,2,4,Yes,Gaurdian
+1,Male,INFJ-A,Introvert,Intuition,Feeling,Judgement,Yes,Yes,4,5,5,4,4,Yes,Idealists
+10,Male,ENTJ-A,Extrovert,Sensation,Thinking,Perception,Yes,No,4,3,5,4,5,Yes,Artisans
+10,Female,INSF-T,Introvert,Intuition,Thinking,Perception,Yes,Yes,3,5,5,5,5,Yes,Rationals
+10,Female,Enfp,Extrovert,Intuition,Feeling,Perception,No,Yes,4,4,4,4,4,Yes,Idealists
+10,Female,ENFJ-T,Extrovert,Sensation,Feeling,Judgement,Yes,Yes,3,4,4,5,5,Yes,Gaurdian
+116,Female,ENTJ-A,Extrovert,Intuition,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Rationals
+116,Female,ENFJ-A,Introvert,Intuition,Feeling,Judgement,No,Yes,4,4,5,5,5,Yes,Idealists
+116,Male,INFP-A,Introvert,Intuition,Thinking,Perception,No,No,5,3,5,5,4,Yes,Rationals
+141,Female,ENTJ-A,Introvert,Intuition,Feeling,Judgement,No,Yes,4,5,5,5,5,Yes,Idealists
+141,Female,ENFJ-T,Extrovert,Intuition,Feeling,Perception,Yes,Yes,4,4,5,5,5,Yes,Idealists
+141,Female,ENFJ-T,Introvert,Sensation,Feeling,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+147,Male,ESFJ-A,Introvert,Sensation,Thinking,Judgement,No,Yes,3,5,5,5,5,Yes,Gaurdian
+147,Male,ESTJ-T,Introvert,Sensation,Thinking,Judgement,Yes,Yes,4,5,5,5,4,Yes,Gaurdian
+147,Female,ENFX-T,Introvert,Intuition,Feeling,Perception,Yes,Yes,3,4,5,5,5,Yes,Idealists
+16,Male,ESPF-T,Extrovert,Intuition,Thinking,Judgement,No,Yes,4,3,5,5,5,Yes,Rationals
+16,Male,ENFP-T,Extrovert,Intuition,Thinking,Perception,No,No,4,4,3,5,5,Yes,Rationals
+16,Male,INFJ-T,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,4,4,5,5,5,Yes,Rationals
+179,Female,ENFP-T,Introvert,Intuition,Feeling,Perception,No,Yes,4,5,4,4,4,Yes,Idealists
+179,Female,ENFJ-T,Introvert,Sensation,Feeling,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+179,Female,ENFJ-T,Introvert,Intuition,Thinking,Judgement,Yes,Yes,4,4,4,4,5,Yes,Rationals
+19,Male,Mediator,Introvert,Intuition,Feeling,Perception,No,No,5,4,4,4,5,Yes,Idealists
+19,Female,Enfp,Extrovert,Intuition,Feeling,Perception,No,No,4,4,4,4,4,Yes,Idealists
+19,Female,ENFP-T,Extrovert,Intuition,Feeling,Perception,Yes,No,4,3,3,3,5,Yes,Idealists
+19,Male,ENFJ-A,Extrovert,Intuition,Feeling,Judgement,No,No,4,4,3,4,5,Yes,Idealists
+2,Female,ENFJ-A ,Extrovert,Intuition,Feeling,Judgement,No,Yes,4,5,4,5,5,Yes,Idealists
+2,Male,ENFJ-T,Extrovert,Intuition,Feeling,Judgement,No,Yes,4,5,5,5,5,Yes,Idealists
+2,Male,INTP-T,Introvert,Intuition,Thinking,Perception,No,No,4,3,5,4,5,Yes,Rationals
+2,Male,INFJ-A,Introvert,Intuition,Feeling,Judgement,No,Yes,4,5,3,5,5,Yes,Idealists
+22,Female,ENFJ-T,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,4,4,4,4,5,Yes,Rationals
+22,Male,ISFJ-A,Introvert,Intuition,Thinking,Perception,No,Yes,3,4,4,4,5,Yes,Rationals
+22,Female,ENFJ-A,Extrovert,Intuition,Feeling,Judgement,No,Yes,4,5,4,4,4,Yes,Idealists
+22,Male,ISFJ-A,Introvert,Intuition,Thinking,Perception,No,Yes,3,4,4,4,5,Yes,Rationals
+26,Male,ENFJ-A,Extrovert,Intuition,Feeling,Judgement,No,Yes,4,4,5,4,5,Yes,Idealists
+26,Female,ENFP-T,Extrovert,Intuition,Feeling,Perception,No,Yes,4,2,4,4,4,Yes,Idealists
+26,Female,INFJ-T,Introvert,Intuition,Feeling,Judgement,No,Yes,4,5,5,5,5,Yes,Idealists
+27,Female,ENFP-T,Extrovert,Intuition,Feeling,Perception,Yes,Yes,3,5,5,5,5,Yes,Idealists
+27,Male,ISTP-T,Introvert,Sensation,Thinking,Perception,Yes,Yes,5,5,5,5,5,Yes,Artisans
+27,Male,ENTJ-A,Extrovert,Intuition,Thinking,Judgement,No,Yes,1,5,3,3,3,Yes,Rationals
+30,Male,Silent,Introvert,Sensation,Feeling,Perception,No,No,4,5,5,5,5,Yes,Artisans
+30,Male,INFJ-A,Introvert,Intuition,Feeling,Judgement,No,Yes,4,5,5,4,4,Yes,Idealists
+30,Male,INFJ-A,Introvert,Intuition,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Rationals
+33,Female,ENFJ-A,Introvert,Sensation,Feeling,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+33,Male,Mediator,Introvert,Intuition,Feeling,Perception,No,Yes,5,5,5,5,5,Yes,Idealists
+33,Female,Consul ,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,5,3,3,4,5,Yes,Rationals
+34,Female,ENFJ-A,Introvert,Sensation,Feeling,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+34,Male,INFP-A,Introvert,Intuition,Feeling,Perception,No,Yes,5,5,5,5,5,Yes,Idealists
+34,Female,ENFP-A,Introvert,Intuition,Feeling,Perception,No,Yes,3,5,5,5,5,Yes,Idealists
+35,Female,Extrovert,Extrovert,Sensation,Feeling,Perception,Yes,Yes,4,5,5,5,5,Yes,Artisans
+35,Male,INFJ-T,Introvert,Intuition,Thinking,Judgement,Yes,Yes,4,5,5,5,5,Yes,Rationals
+35,Male,ENFP-T,Extrovert,Intuition,Thinking,Perception,No,Yes,4,5,5,5,5,Yes,Rationals
+36,Female,ENFJ-A,Extrovert,Intuition,Feeling,Judgement,No,Yes,4,5,5,5,5,Yes,Idealists
+36,Female,INTJ-T,Introvert,Sensation,Thinking,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+36,Male,ESPF-T,Extrovert,Intuition,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Rationals
+37,Female,ENFJ-A,Introvert,Intuition,Feeling,Judgement,Yes,Yes,2,4,3,3,3,No,Idealists
+37,Female,ISFJ-A,Introvert,Sensation,Feeling,Judgement,Yes,Yes,3,5,5,5,5,Yes,Gaurdian
+37,Male,ISTP,Introvert,Sensation,Thinking,Perception,Yes,Yes,4,5,5,5,5,Yes,Artisans
+37,Female,ENFJ-A,Introvert,Intuition,Feeling,Judgement,Yes,Yes,2,5,3,3,3,Yes,Idealists
+39,Female,INFP-T,Introvert,Intuition,Feeling,Perception,Yes,Yes,4,5,5,5,5,Yes,Idealists
+39,Male,ISTJ-A,Introvert,Intuition,Thinking,Judgement,Yes,Yes,4,5,5,5,5,Yes,Rationals
+39,Male,Logistician,Extrovert,Intuition,Thinking,Judgement,No,Yes,4,4,4,4,5,Yes,Rationals
+39,Male,INTJ-T,Extrovert,Sensation,Feeling,Perception,Yes,Yes,5,5,5,5,5,Yes,Artisans
+4,Female,Consul ,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,5,3,3,4,5,Yes,Rationals
+4,Female,INFIJ-T,Introvert,Intuition,Thinking,Judgement,No,No,5,5,2,3,3,Yes,Rationals
+4,Male,ISTP-T,Introvert,Intuition,Thinking,Perception,No,Yes,3,5,5,5,5,Yes,Rationals
+4,Male,INFJ-A,Introvert,Intuition,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Rationals
+41,Male,ENTP-A,Extrovert,Intuition,Thinking,Perception,Yes,Yes,5,4,3,3,3,Yes,Rationals
+41,Male,INFJ-T,Introvert,Intuition,Feeling,Judgement,Yes,Yes,5,5,3,3,3,Yes,Idealists
+41,Male,INTJ,Introvert,Intuition,Thinking,Judgement,Yes,Yes,2,4,3,3,3,No,Rationals
+52,Male,ENFP-T,Introvert,Intuition,Thinking,Perception,Yes,Yes,4,5,5,5,5,Yes,Rationals
+52,Female,INFJ-T,Introvert,Sensation,Feeling,Judgement,Yes,Yes,3,5,5,5,5,Yes,Gaurdian
+52,Female,ENFJ-T,Introvert,Sensation,Feeling,Judgement,No,Yes,3,5,4,5,5,Yes,Gaurdian
+56,Female,INFJ-T,Introvert,Intuition,Feeling,Judgement,No,Yes,4,5,5,5,5,Yes,Idealists
+56,Male,INFJ-T,Introvert,Intuition,Feeling,Judgement,Yes,Yes,5,5,3,3,3,Yes,Idealists
+56,Male,ENFJ-T,Extrovert,Intuition,Feeling,Judgement,No,Yes,4,5,5,5,5,Yes,Idealists
+6,Female,ISTP-T,Introvert,Sensation,Thinking,Perception,Yes,Yes,3,5,5,5,5,Yes,Artisans
+6,Female,ISTP-T,Introvert,Sensation,Thinking,Perception,Yes,Yes,3,5,5,5,5,Yes,Artisans
+6,Male,INTP-T,Introvert,Intuition,Feeling,Judgement,Yes,Yes,3,5,5,5,5,Yes,Idealists
+6,Male,INFJ-A,Introvert,Sensation,Thinking,Perception,Yes,Yes,4,5,5,5,5,Yes,Artisans
+67,Male,INFJ-A,Introvert,Intuition,Feeling,Judgement,No,Yes,4,5,5,5,5,Yes,Idealists
+67,Male,ENFJ-T,Extrovert,Intuition,Feeling,Judgement,Yes,Yes,2,5,3,2,3,No,Idealists
+67,Male,INFJ-A,Introvert,Intuition,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Rationals
+67,Male,ENTJ-A,Extrovert,Intuition,Thinking,Judgement,No,Yes,1,4,3,2,3,No,Rationals
+Amalgamate,Female,ENFJ-A,Extrovert,Sensation,Feeling,Judgement,No,No,3,4,4,3,3,Yes,Gaurdian
+Amalgamate,Male,ESTJ-A,Extrovert,Sensation,Thinking,Judgement,No,No,2,4,3,3,3,Yes,Gaurdian
+Amalgamate,Male,ESTJ-A,Extrovert,Sensation,Thinking,Judgement,No,No,3,3,3,3,3,Yes,Gaurdian
+Amalgamate,Female,INFP-T,Introvert,Sensation,Feeling,Judgement,No,No,3,3,3,3,5,Yes,Gaurdian
+Bits Please!,Female,ISFP-A,Introvert,Intuition,Feeling,Judgement,Yes,Yes,3,5,5,5,5,Yes,Idealists
+Bits Please!,Female,INFP-T,Extrovert,Intuition,Feeling,Perception,Yes,Yes,5,5,5,5,5,Yes,Idealists
+Bits Please!,Female,ISFP-A,Extrovert,Sensation,Feeling,Perception,Yes,Yes,4,3,4,3,5,Yes,Artisans
+BitsPlease!,Female,INTJ-A,Extrovert,Intuition,Thinking,Perception,Yes,Yes,3,5,5,5,5,Yes,Rationals
+Blip,Male,INFP-T,Extrovert,Intuition,Thinking,Perception,Yes,Yes,4,4,4,4,4,Yes,Rationals
+Blocks,Male,ENTJ-T,Introvert,Intuition,Thinking,Judgement,Yes,No,3,3,3,3,4,Yes,Rationals
+Blocks,Male,INTJ-T,Extrovert,Sensation,Feeling,Perception,Yes,No,3,3,4,4,5,Yes,Artisans
+Blocks,Male,Logistician,Extrovert,Intuition,Thinking,Judgement,No,No,3,3,3,3,5,Yes,Rationals
+Bohemiax,Female,ENTJ-A,Introvert,Intuition,Feeling,Judgement,No,Yes,4,5,5,5,5,Yes,Idealists
+Bohemiax,Female,ENFJ-T,Extrovert,Sensation,Feeling,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+Bohemiax,Female,INTJ-T,Introvert,Intuition,Feeling,Judgement,No,Yes,4,4,4,4,4,Yes,Idealists
+Brain Powered,Female,ENFJ-A,Introvert,Sensation,Feeling,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+Brain Powered,Male,INTJ-T,Introvert,Sensation,Feeling,Perception,No,Yes,5,5,5,5,5,Yes,Artisans
+Brain Powered,Male,ENTJ-T,Introvert,Intuition,Thinking,Judgement,Yes,Yes,5,5,5,5,4,Yes,Rationals
+Code Art,Female,ENFJ-T,Extrovert,Intuition,Feeling,Judgement,No,No,4,3,3,3,5,Yes,Idealists
+Code Art,Male,INTJ-T,Introvert,Sensation,Feeling,Perception,No,Yes,4,2,5,3,2,Yes,Artisans
+Code Art,Male,ENTJ-T,Extrovert,Intuition,Thinking,Judgement,Yes,No,4,3,3,3,3,Yes,Rationals
+Code Art,Female,ENFJ-A,Extrovert,Sensation,Feeling,Judgement,Yes,No,5,4,3,3,3,Yes,Gaurdian
+Code Delicacy,Female,ENFJ-A,Introvert,Sensation,Feeling,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+Code Delicacy,Female,ENFP-A,Introvert,Intuition,Feeling,Perception,No,Yes,3,5,5,5,5,Yes,Idealists
+Code Delicacy,Male,INFP-A,Introvert,Intuition,Feeling,Perception,Yes,Yes,5,5,5,5,5,Yes,Idealists
+Comp FolK,Female,INFP-T,Introvert,Sensation,Feeling,Judgement,No,Yes,3,5,5,5,5,Yes,Gaurdian
+Comp FolK,Male,ENFP-T,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,3,5,5,5,5,Yes,Rationals
+Comp FolK,Female,ENFP-A,Introvert,Intuition,Feeling,Perception,Yes,Yes,3,5,5,5,5,Yes,Idealists
+Compiled,Female,ENFJ-A,Introvert,Sensation,Feeling,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+Compiled,Female,INFP-T,Introvert,Sensation,Feeling,Judgement,Yes,Yes,3,5,5,5,5,Yes,Gaurdian
+Compiled,Male,ENFP-T,Extrovert,Intuition,Thinking,Judgement,No,Yes,3,5,5,5,5,Yes,Rationals
+Compiled,Male,ESTJ-A,Introvert,Sensation,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Gaurdian
+Daemon,Male,ENTJ-T,Introvert,Intuition,Thinking,Judgement,Yes,Yes,5,5,5,5,4,Yes,Rationals
+Daemon,Male,INFJ,Introvert,Intuition,Thinking,Judgement,No,Yes,2,5,5,5,5,Yes,Rationals
+Daemon,Male,INTJ-T,Introvert,Sensation,Feeling,Perception,Yes,Yes,5,5,5,5,5,Yes,Artisans
+Daemon,Female,ENFJ-T,Extrovert,Intuition,Feeling,Judgement,Yes,Yes,3,5,5,5,5,Yes,Idealists
+Data Pirates,Female,ENFJ-A,Introvert,Sensation,Feeling,Judgement,Yes,Yes,4,2,3,3,4,Yes,Gaurdian
+Data Pirates,Male,ENTJ-T,Introvert,Intuition,Thinking,Judgement,Yes,Yes,5,5,5,5,4,Yes,Rationals
+Data Pirates,Female,INTJ-T,Introvert,Sensation,Thinking,Judgement,Yes,Yes,3,2,5,3,2,Yes,Gaurdian
+Dream Team,Male,INTP-T,Extrovert,Intuition,Thinking,Perception,Yes,Yes,2,4,3,3,3,Yes,Rationals
+Dream Team,Male,INFP-T,Extrovert,Intuition,Feeling,Perception,No,Yes,2,5,3,3,3,No,Idealists
+Dream Team,Male,ESTJ-A,Extrovert,Sensation,Thinking,Judgement,Yes,Yes,4,4,3,5,5,Yes,Gaurdian
+Dreamers,Female,ENFJ-A,Introvert,Sensation,Feeling,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+Dreamers,Female,ENFJ-A,Introvert,Sensation,Feeling,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+Dreamers,Male,ENTJ-T,Introvert,Intuition,Thinking,Judgement,Yes,Yes,5,5,3,4,4,Yes,Rationals
+Dreamers,Male,ESFJ-A,Extrovert,Sensation,Thinking,Perception,No,Yes,3,5,5,5,5,Yes,Artisans
+Eco Men,Male,ENFJ-TA,Extrovert,Sensation,Thinking,Judgement,No,Yes,4,4,4,4,4,Yes,Gaurdian
+Eco men,Male,ISFP-T,Introvert,Intuition,Feeling,Judgement,Yes,Yes,3,5,5,5,5,Yes,Idealists
+EcoMen,Male,ISTP-T,Extrovert,Intuition,Thinking,Perception,Yes,Yes,4,5,5,5,5,Yes,Rationals
+EcoMen,Male,ESFJ-T,Extrovert,Sensation,Feeling,Judgement,No,Yes,4,5,5,5,5,Yes,Gaurdian
+Electro infinity,Female,ESFJ-T,Extrovert,Sensation,Feeling,Perception,No,Yes,3,5,4,4,5,Yes,Artisans
+Electro infinity,Female,INFP-T,Extrovert,Intuition,Feeling,Perception,No ,Yes,4,3,3,3,3,Yes ,Idealists
+Electro infinity ,Female,ISFJ - T,Extrovert,Sensation,Thinking,Perception,No,Yes,3,5,5,5,5,Yes,Artisans
+Elite Code,Female,INFP-T,Introvert,Sensation,Feeling,Judgement,No,Yes,3,5,5,5,5,Yes,Gaurdian
+Elite Code,Male,ESTJ-A,Extrovert,Sensation,Thinking,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+Elite Code,Male,ESFJ-A,Extrovert,Sensation,Thinking,Perception,Yes,Yes,3,5,5,5,5,Yes,Artisans
+EmPowered,Female,ENFP-A,Introvert,Intuition,Feeling,Perception,Yes,Yes,3,5,5,5,5,Yes,Idealists
+EmPowered,Female,INFP-T,Introvert,Sensation,Feeling,Judgement,No,Yes,3,5,5,5,5,Yes,Gaurdian
+EmPowered,Female,INFP-T,Introvert,Sensation,Feeling,Judgement,No,Yes,3,5,5,5,5,Yes,Gaurdian
+Energette,Male,ESFP-T,Extrovert,Intuition,Feeling,Perception,Yes,Yes,3,5,5,5,5,Yes,Idealists
+Energette,Female,ISFP-A,Extrovert,Intuition,Thinking,Perception,No,Yes,3,5,5,5,5,Yes,Rationals
+Energette,Female,ENTJ-A,Extrovert,Sensation,Thinking,Judgement,Yes,Yes,3,5,5,5,5,Yes,Gaurdian
+Energised,Female,INFP-T,Extrovert,Sensation,Feeling,Judgement,No,No,3,3,3,3,5,Yes,Gaurdian
+Energised,Female,ENFP-A,Extrovert,Intuition,Feeling,Perception,Yes,No,3,3,3,3,4,Yes,Idealists
+Energised,Female,INFP-T,Extrovert,Sensation,Feeling,Judgement,Yes,No,3,3,4,4,5,Yes,Gaurdian
+Entro,Male,INTJ-T,Introvert,Sensation,Feeling,Perception,Yes,No,5,4,5,3,5,Yes,Artisans
+Entro,Male,ENFJ-A,Extrovert,Intuition,Feeling,Judgement,No,Yes,4,4,5,4,5,Yes,Idealists
+Entro,Female,INTJ-T,Introvert,Intuition,Feeling,Judgement,No,Yes,4,4,4,4,4,Yes,Idealists
+F-Society,Female,INFP-T,Introvert,Intuition,Feeling,Perception,Yes,Yes,4,5,5,5,5,Yes,Idealists
+F-Society,Male,ISTJ-A,Introvert,Intuition,Thinking,Judgement,Yes,Yes,4,3,3,5,5,Yes,Rationals
+F-Society,Male,ESFJ-A,Introvert,Sensation,Thinking,Perception,Yes,Yes,3,3,5,5,4,Yes,Artisans
+F-Society,Male,INFJ-A,Introvert,Sensation,Thinking,Perception,Yes,Yes,4,5,3,5,5,Yes,Artisans
+Face Less,Male,INFJ,Extrovert,Intuition,Thinking,Judgement,No,No,4,4,4,4,3,Yes,Rationals
+Face Less,Female,ENFJ-T,Extrovert,Intuition,Feeling,Judgement,Yes,No,4,3,3,3,3,Yes,Idealists
+Face Less,Male,INTJ-T,Extrovert,Sensation,Feeling,Perception,Yes,No,4,3,3,4,3,Yes,Artisans
+Faded,Female,INFP-T,Introvert,Sensation,Feeling,Judgement,No,Yes,3,5,5,5,5,Yes,Gaurdian
+Faded,Male,ESTJ-A,Extrovert,Sensation,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Gaurdian
+Faded,Female,ENFP-A,Introvert,Intuition,Feeling,Perception,No,Yes,3,5,5,5,5,Yes,Idealists
+Flawless,Female,INFP-T,Extrovert,Sensation,Feeling,Judgement,No,No,3,3,3,3,3,Yes,Gaurdian
+Flawless,Male,ESFJ-A,Extrovert,Sensation,Thinking,Perception,No,No,2,3,3,3,4,Yes,Artisans
+Flawless,Male,ESTJ-A,Extrovert,Sensation,Thinking,Judgement,No,No,3,4,4,4,3,Yes,Gaurdian
+Footies,Female,INTJ-T,Introvert,Sensation,Thinking,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+Footies,Female,INFP-T,Introvert,Intuition,Feeling,Perception,Yes,Yes,4,5,5,5,5,Yes,Idealists
+Footies,Male,ISTJ-A,Introvert,Intuition,Thinking,Judgement,Yes,Yes,4,5,5,5,5,Yes,Rationals
+Game Engine,Female,ENFP-A,Extrovert,Intuition,Feeling,Perception,Yes,No,3,3,3,3,4,Yes,Idealists
+Game Engine,Male,ENFP-T,Extrovert,Intuition,Thinking,Judgement,Yes,No,3,3,4,4,5,Yes,Rationals
+Game Engine,Male,Logistician,Extrovert,Intuition,Thinking,Judgement,Yes,No,4,3,3,3,3,Yes,Rationals
+Game Engine,Male,ISTJ-A,Extrovert,Intuition,Thinking,Judgement,No,No,4,4,4,4,3,Yes,Rationals
+Game Play,Male,ESTJ-A,Extrovert,Sensation,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Gaurdian
+Game Play,Female,INFP-T,Introvert,Sensation,Feeling,Judgement,No,Yes,3,5,5,5,5,Yes,Gaurdian
+Game Play,Male,ESFJ-A,Extrovert,Sensation,Thinking,Perception,Yes,Yes,3,5,5,5,5,Yes,Artisans
+Game Time,Female,INFP-T,Introvert,Sensation,Feeling,Judgement,Yes,Yes,3,5,5,5,5,Yes,Gaurdian
+Game Time,Male,ESTJ-A,Extrovert,Sensation,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Gaurdian
+Game Time,Male,INFP-A,Introvert,Intuition,Feeling,Perception,Yes,Yes,5,5,5,5,5,Yes,Idealists
+Game of Things,Female,ENFJ-A,Introvert,Sensation,Feeling,Judgement,No,Yes,4,5,5,5,5,Yes,Gaurdian
+Game of Things,Female,INFP-T,Introvert,Sensation,Feeling,Judgement,Yes,Yes,3,5,5,5,5,Yes,Gaurdian
+Game of Things,Female,ENFP-A,Introvert,Intuition,Feeling,Perception,Yes,Yes,3,5,5,5,5,Yes,Idealists
+Gem Stone,Female,INTJ-T,Extrovert,Sensation,Thinking,Judgement,Yes,No,4,3,3,4,3,Yes,Gaurdian
+Gem Stone,Male,ISTJ-A,Extrovert,Intuition,Thinking,Judgement,No,No,4,3,4,4,4,Yes,Rationals
+Gem Stone,Female,INFP-T,Extrovert,Intuition,Feeling,Perception,No,No,4,3,3,3,4,Yes,Idealists
+Hacked,Female,ENFJ-T,Extrovert,Intuition,Feeling,Judgement,No,Yes,3,5,5,5,5,Yes,Idealists
+Hacked,Female,Consul,Introvert,Intuition,Thinking,Perception,No,Yes,5,5,5,5,5,Yes,Rationals
+Hacked,Male,ENTJ-T,Introvert,Intuition,Thinking,Judgement,Yes,Yes,5,5,5,4,4,Yes,Rationals
+Hugs for bugs,Male,ENTJ-A,Extrovert,Sensation,Feeling,Judgement,Yes,No,4,3,4,4,5,Yes,Gaurdian
+Hugs for bugs,Female,ENFJ-A,Extrovert,Sensation,Feeling,Judgement,Yes,Yes,4,3,4,3,5,Yes,Gaurdian
+Illusion,Male,INFJ,Introvert,Intuition,Thinking,Judgement,No,Yes,2,4,5,5,5,Yes,Rationals
+Illusion,Male,ENTJ-T,Introvert,Intuition,Thinking,Judgement,Yes,Yes,5,3,3,4,4,Yes,Rationals
+Illusion,Female,ENFJ-T,Extrovert,Intuition,Feeling,Judgement,Yes,Yes,3,5,5,5,5,Yes,Idealists
+Imperium,Female,ENFP-T,Introvert,Intuition,Feeling,Perception,Yes,Yes,5,4,5,5,5,Yes,Idealists
+Imperium,Female,Consul,Introvert,Intuition,Thinking,Perception,No,Yes,5,4,3,4,5,Yes,Rationals
+Imperium,Female,ENFJ-T,Introvert,Sensation,Feeling,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+Integration,Female,ENFJ-A,Introvert,Sensation,Feeling,Judgement,No,Yes,4,5,5,5,5,Yes,Gaurdian
+Integration,Male,ESTJ-A,Introvert,Sensation,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Gaurdian
+Integration,Male,ESTJ-A,Extrovert,Sensation,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Gaurdian
+Key In,Male,ESTJ-A,Extrovert,Sensation,Thinking,Judgement,No,No,4,4,4,4,3,Yes,Gaurdian
+Key In,Male,ESTJ-A,Introvert,Sensation,Thinking,Judgement,Yes,No,4,3,3,3,3,Yes,Gaurdian
+Key In,Female,ENFJ-A,Extrovert,Sensation,Feeling,Judgement,Yes,No,4,3,3,4,3,Yes,Gaurdian
+Loading,Female,ENFJ-A,Extrovert,Sensation,Feeling,Judgement,No,No,4,3,3,3,4,Yes,Gaurdian
+Loading,Male,ENTJ-T,Extrovert,Intuition,Thinking,Judgement,Yes,No,4,3,3,4,3,Yes,Rationals
+Loading,Female,INTJ-T,Extrovert,Sensation,Thinking,Judgement,No,No,4,3,4,4,4,Yes,Gaurdian
+NEVER LATE,Male,INTP-T,Extrovert,Sensation,Thinking,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+Nailed It,Female,ENFP-T,Introvert,Intuition,Feeling,Perception,Yes,Yes,5,5,5,5,5,Yes,Idealists
+Nailed It,Female,Consul,Introvert,Intuition,Thinking,Perception,No,Yes,5,5,5,5,5,Yes,Rationals
+Nailed It,Female,ENFJ-A,Introvert,Sensation,Feeling,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+Never Late,Male,ISFP-T,Introvert,Sensation,Feeling,Perception,Yes,Yes,3,5,5,5,5,Yes,Artisans
+Never Late,Male,ISTP-T,Extrovert,Intuition,Thinking,Perception,No,No,3,5,5,3,5,Yes,Rationals
+Never Late,Female,ISFJ-A,Extrovert,Sensation,Feeling,Judgement,Yes,Yes,3,5,3,3,5,Yes,Gaurdian
+No Err Block,Female,ENFJ-A,Extrovert,Sensation,Feeling,Judgement,Yes,No,3,3,4,4,5,Yes,Gaurdian
+No Err Block,Female,ENFP-T,Extrovert,Intuition,Feeling,Perception,Yes,No,3,3,3,3,5,Yes,Idealists
+No Err Block,Female,Consul,Introvert,Intuition,Thinking,Perception,No,No,4,4,4,3,3,Yes,Rationals
+Null Void,Male,ENFP-T,Extrovert,Intuition,Thinking,Judgement,No,Yes,3,5,5,5,5,Yes,Rationals
+Null Void,Male,ISFP-T,Introvert,Sensation,Feeling,Perception,Yes,Yes,3,5,5,5,5,Yes,Artisans
+Null Void,Female,ENFJ-A,Extrovert,Intuition,Feeling,Judgement,No,Yes,4,4,4,4,4,Yes,Idealists
+Ode To Code,Female,INGJ-A,Introvert,Sensation,Feeling,Judgement,No,Yes,3,3,3,5,5,Yes,Gaurdian
+Ode To Code,Female,ENFJ-T,Extrovert,Intuition,Feeling,Judgement,Yes,No,3,4,3,5,5,Yes,Idealists
+Ode To Code,Female,ISFJ - A,Introvert,Sensation,Feeling,Perception,No,Yes,3,5,5,5,5,Yes,Artisans
+Panic In The Kernel,Male,ENFP-T,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,2,4,5,5,5,Yes,Rationals
+Panic In The Kernel,Male,ISTP-A,Extrovert,Intuition,Thinking,Perception,No,Yes,4,5,5,5,5,Yes,Rationals
+Parallels,Female,ENFJ-T,Extrovert,Intuition,Feeling,Judgement,No,Yes,3,5,5,5,5,Yes,Idealists
+Parallels,Male,INFJ,Introvert,Intuition,Thinking,Judgement,No,Yes,2,5,5,5,5,Yes,Rationals
+Parallels,Male,ENTJ-T,Introvert,Intuition,Thinking,Judgement,No,Yes,5,5,5,4,4,Yes,Rationals
+Preyed,Male,ENTJ-T,Extrovert,Intuition,Thinking,Judgement,No,No,4,3,3,3,4,Yes,Rationals
+Preyed,Male,INFJ,Extrovert,Intuition,Thinking,Judgement,No,No,4,3,4,4,4,Yes,Rationals
+Preyed,Male,INTJ-T,Introvert,Sensation,Feeling,Perception,Yes,No,4,3,3,4,3,Yes,Artisans
+Princeton,Male,ESFJ-A,Extrovert,Sensation,Thinking,Perception,Yes,Yes,3,5,5,5,5,Yes,Artisans
+Princeton,Female,INFP-T,Introvert,Sensation,Feeling,Judgement,No,Yes,3,5,5,5,5,Yes,Gaurdian
+Princeton,Male,ESTJ-A,Extrovert,Sensation,Thinking,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+Q-Bone,Female,ENFP-A,Extrovert,Intuition,Feeling,Perception,No,No,3,3,5,5,5,Yes,Idealists
+Q-Bone,Male,INFP-T,Extrovert,Intuition,Feeling,Perception,Yes,No,3,4,5,5,3,Yes,Idealists
+Q-Bone,Female,ISFJ-A,Extrovert,Intuition,Feeling,Perception,Yes,Yes,3,5,5,5,3,Yes,Idealists
+RePresent,Male,INTJ-T,Introvert,Sensation,Feeling,Perception,Yes,Yes,5,5,5,5,5,Yes,Artisans
+RePresent,Male,Logistician,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,4,4,5,5,5,Yes,Rationals
+RePresent,Male,ISTJ-A,Introvert,Intuition,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Rationals
+Rubix,Female,ENFJ-T,Extrovert,Intuition,Feeling,Judgement,Yes,No,3,3,3,3,4,Yes,Idealists
+Rubix,Male,INTJ-T,Introvert,Sensation,Feeling,Perception,No,No,4,4,4,4,3,Yes,Artisans
+Rubix,Male,ENTJ-T,Extrovert,Intuition,Thinking,Judgement,Yes,No,4,3,3,3,3,Yes,Rationals
+Runtime Terror,Female,INFJ-T,Introvert,Sensation,Feeling,Judgement,No,Yes,3,4,5,5,5,Yes,Gaurdian
+Runtime Terror,Female,ENFP-A,Introvert,Intuition,Thinking,Judgement,No,Yes,4,4,5,5,5,Yes,Rationals
+Runtime Terror,Female,INFP-T,Introvert,Sensation,Feeling,Judgement,No,Yes,3,4,5,5,5,Yes,Gaurdian
+Runtime Terror,Female,ESFJ-A,Introvert,Intuition,Thinking,Judgement,No,Yes,3,5,5,5,5,Yes,Rationals
+SAY,Male,INTP-A,Extrovert,Intuition,Thinking,Perception,No,Yes,4,5,5,5,5,Yes,Rationals
+SAY,Male,INFJ-A,Extrovert,Intuition,Thinking,Judgement,No,Yes,4,4,4,4,4,Yes,Rationals
+SAY,Male,INFG-T,Extrovert,Intuition,Thinking,Judgement,No,Yes,2,5,5,5,5,Yes,Rationals
+SPOON,Male,ISFJ - T,Introvert,Intuition,Feeling,Judgement,No,Yes,5,5,5,5,5,Yes,Idealists
+Scarlet,Male,ESTJ-A,Extrovert,Sensation,Thinking,Judgement,Yes,Yes,4,5,5,5,5,Yes,Gaurdian
+Scarlet,Female,INFP-T,Introvert,Sensation,Feeling,Judgement,Yes,Yes,3,5,5,5,5,Yes,Gaurdian
+Scarlet,Male,ESFJ-A,Extrovert,Sensation,Thinking,Perception,Yes,Yes,3,5,5,5,5,Yes,Artisans
+Secured,Male,INTJ-T,Introvert,Sensation,Feeling,Perception,Yes,Yes,5,5,5,5,5,Yes,Artisans
+Secured,Male,Logistician,Extrovert,Intuition,Thinking,Judgement,No,Yes,4,5,4,5,5,Yes,Rationals
+Secured,Male,ISTJ-A,Introvert,Intuition,Thinking,Judgement,Yes,Yes,4,5,5,5,5,Yes,Rationals
+Secured,Female,ENFP-A,Introvert,Intuition,Feeling,Perception,Yes,Yes,3,5,5,5,5,Yes,Idealists
+SoFAh,Female,ENFJ-A,Extrovert,Sensation,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Gaurdian
+SoFAh,Female,INFJ-A,Extrovert,Sensation,Thinking,Judgement,No,Yes,5,5,5,5,5,Yes,Gaurdian
+SoFah,Male,INTJ-T,Extrovert,Sensation,Feeling,Perception,Yes,Yes,5,5,5,3,5,Yes,Artisans
+SoFah,Male,ENFP-T,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,3,5,5,5,5,Yes,Rationals
+Spoon,Male,Advocate,Introvert,Sensation,Feeling,Judgement,No,Yes,5,5,5,5,5,Yes,Gaurdian
+Spoon,Male,Protafonist,Extrovert,Intuition,Feeling,Judgement,No,No,5,5,5,5,5,Yes,Idealists
+Spoon,Male,ENFJ-A,Extrovert,Intuition,Feeling,Judgement,No,Yes,5,5,5,5,5,Yes,Idealists
+Stonks,Female,Extrovert,Extrovert,Sensation,Feeling,Perception,Yes,Yes,4,4,3,5,5,Yes,Artisans
+Stonks,Female,INTP-T,Extrovert,Intuition,Thinking,Perception,Yes,Yes,4,4,5,5,5,Yes,Rationals
+Stonks,Female,INTJ-T,Extrovert,Sensation,Thinking,Judgement,No,No,4,4,5,5,5,Yes,Gaurdian
+Stonks,Male,Logistician,Extrovert,Intuition,Thinking,Judgement,No,Yes,4,5,4,4,5,Yes,Rationals
+Team 07,Male,Advocate,Extrovert,Intuition,Thinking,Perception,Yes,No,5,3,4,3,5,No,Rationals
+Team 07,Male,Mediator,Extrovert,Sensation,Thinking,Perception,Yes,Yes,5,4,3,5,5,No,Artisans
+Team 07,Male,Adventurer,Extrovert,Intuition,Thinking,Perception,Yes,Yes,5,4,5,4,5,No,Rationals
+Team 07,Male,Adventurer,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,5,4,4,3,5,No,Rationals
+Team 101,Female,ENFP-T,Introvert,Intuition,Feeling,Perception,Yes,Yes,5,5,5,5,5,Yes,Idealists
+Team 101,Male,INTJ-T,Introvert,Sensation,Feeling,Perception,No,Yes,5,5,5,5,5,Yes,Artisans
+Team 101,Male,INFJ,Introvert,Intuition,Thinking,Judgement,No,Yes,2,5,5,5,5,Yes,Rationals
+Team Dexter,Male,ENTJ-T,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,4,4,4,4,5,Yes,Rationals
+Team Dexter,Male,ESTJ-T,Extrovert,Sensation,Thinking,Judgement,Yes,Yes,4,2,2,2,4,Yes,Gaurdian
+Team Dexter,Male,ENFP-T,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,3,5,5,5,5,Yes,Rationals
+Team Dexter,Male,ESFJ-A,Extrovert,Sensation,Thinking,Judgement,No,Yes,3,5,5,5,5,Yes,Gaurdian
+Team Turing,Female,Consul ,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,5,3,3,4,5,Yes,Rationals
+Team Turing,Male,ENTP-A,Extrovert,Intuition,Thinking,Perception,Yes,Yes,4,4,4,4,5,Yes,Rationals
+Team Turing,Female,ESFP-T,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,5,4,5,5,5,Yes,Rationals
+Team Turing,Male,ENFP-T,Extrovert,Intuition,Feeling,Perception,Yes,Yes,3,4,5,5,5,Yes,Idealists
+Tech Spark,Female,ENFP-T,Extrovert,Intuition,Feeling,Perception,No,No,3,4,4,3,3,Yes,Idealists
+Tech Spark,Female,ENFJ-A,Introvert,Sensation,Feeling,Judgement,No,No,3,3,3,3,5,Yes,Gaurdian
+Tech Spark,Male,INFJ,Extrovert,Intuition,Thinking,Judgement,Yes,No,3,3,4,4,5,Yes,Rationals
+Techno rangers,Female,INSF-T,Introvert,Intuition,Thinking,Perception,Yes,Yes,3,5,5,5,5,Yes,Rationals
+Techno rangers,Female,Consul ,Introvert,Intuition,Thinking,Judgement,Yes,Yes,5,3,3,4,5,Yes,Rationals
+Techno rangers,Female,ENTJ-A,Introvert,Intuition,Thinking,Judgement,No,Yes,4,4,4,5,5,Yes,Rationals
+The Decision Makers,Female,ENFJ-A,Extrovert,Sensation,Feeling,Judgement,No,No,2,4,3,3,3,Yes,Gaurdian
+The Decision Makers,Female,ENFP-A,Extrovert,Intuition,Feeling,Perception,No,No,3,4,4,3,3,Yes,Idealists
+The Decision Makers,Male,INFP-A,Introvert,Intuition,Feeling,Perception,No,No,3,3,3,3,3,Yes,Idealists
+The Loop,Female,INFP-T,Extrovert,Sensation,Feeling,Judgement,No,No,4,3,3,3,4,Yes,Gaurdian
+The Loop,Male,ISTJ-A,Extrovert,Intuition,Thinking,Judgement,No,No,3,4,4,3,3,Yes,Rationals
+The Loop,Male,ENFP-T,Extrovert,Intuition,Thinking,Judgement,No,No,3,3,3,3,3,Yes,Rationals
+The Loop,Female,ENFP-A,Extrovert,Intuition,Feeling,Perception,No,No,2,4,3,3,3,Yes,Idealists
+The Mad Lads,Female,ENFJ-T,Extrovert,Intuition,Feeling,Judgement,Yes,Yes,3,5,5,5,5,Yes,Idealists
+The Mad Lads,Male,INFJ-T,Introvert,Intuition,Feeling,Judgement,Yes,Yes,2,4,3,3,3,Yes,Idealists
+The Mad Lads,Male,ENFP-A,Introvert,Intuition,Feeling,Perception,Yes,Yes,3,5,5,5,5,Yes,Idealists
+The Marauders,Female,INFJ-T,Introvert,Intuition,Feeling,Judgement,No,Yes,2,4,2,3,3,No,Idealists
+The Marauders,Female,INFJ-A,Introvert,Sensation,Feeling,Judgement,No,Yes,3,3,4,5,5,Yes,Gaurdian
+The Marauders,Female,INTJ-T,Introvert,Intuition,Feeling,Perception,Yes,Yes,3,4,5,5,5,Yes,Idealists
+The Marauders ,Female,ISFJ-T,Introvert,Sensation,Thinking,Perception,No,Yes,3,5,5,5,5,Yes,Artisans
+The Penrose Folks,Male,ISTP,Introvert,Sensation,Thinking,Perception,Yes,Yes,4,5,5,5,5,Yes,Artisans
+The Penrose Folks,Male,INTP-A,Extrovert,Intuition,Thinking,Perception,Yes,Yes,4,5,5,4,5,Yes,Rationals
+The Penrose Folks,Male,INFJ,Extrovert,Intuition,Thinking,Perception,Yes,Yes,4,5,5,5,5,Yes,Rationals
+The Penrose Folks,Female,ISTP,Extrovert,Sensation,Thinking,Perception,Yes,Yes,4,5,5,5,5,Yes,Artisans
+The Stalkers,Male,INFJ-A,Extrovert,Sensation,Feeling,Perception,No,No,4,4,4,4,5,Yes,Artisans
+The Stalkers,Male,INFP-A,Extrovert,Intuition,Feeling,Perception,No,Yes,5,3,4,4,5,Yes,Idealists
+The Stalkers,Male,INTP-T,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,4,4,5,5,5,Yes,Rationals
+The Technocrats,Male,INFJ-A,Extrovert,Intuition,Feeling,Perception,Yes,Yes,4,4,5,5,5,Yes,Idealists
+The Technocrats,Female,INFP-T,Extrovert,Intuition,Feeling,Perception,No,Yes,3,4,5,5,3,Yes,Idealists
+The Technocrats,Female,THE Protagonist,Extrovert,Sensation,Feeling,Judgement,Yes,Yes,4,5,5,5,4,Yes,Gaurdian
+The stalkers,Male,INJF-A,Extrovert,Sensation,Feeling,Perception,Yes,Yes,4,5,5,5,5,Yes,Artisans
+Timed,Male,ESFJ-A,Extrovert,Sensation,Thinking,Perception,Yes,No,3,3,3,4,3,Yes,Artisans
+Timed,Male,ESTJ-A,Extrovert,Sensation,Thinking,Judgement,No,No,3,3,3,3,4,Yes,Gaurdian
+Timed,Female,INFP-T,Extrovert,Sensation,Feeling,Judgement,Yes,No,4,3,4,4,4,Yes,Gaurdian
+Unagi,Female,ESFP-T,Extrovert,Sensation,Feeling,Perception,No,Yes,4,5,5,5,5,Yes,Artisans
+Unagi,Female,ESFP-T,Extrovert,Sensation,Feeling,Judgement,No,Yes,4,5,5,5,5,Yes,Gaurdian
+Unagi,Male,INFJ-T,Introvert,Intuition,Feeling,Judgement,No,Yes,4,2,4,5,5,Yes,Idealists
+Unagi,Female,ESFP-T,Extrovert,Sensation,Feeling,Perception,No,Yes,4,3,5,5,5,Yes,Artisans
+Wakandan Tech,Female,ENFP-T,Extrovert,Intuition,Feeling,Perception,No,Yes,3,5,5,5,5,Yes,Idealists
+Wakandan Tech,Male,INFJ-A,Introvert,Intuition,Thinking,Judgement,No,Yes,4,5,5,5,5,Yes,Rationals
+Wakandan Tech,Male,ISTP-T,Introvert,Sensation,Thinking,Perception,No,Yes,5,5,5,5,5,Yes,Artisans
+Webbed,Male,ENTJ-T,Extrovert,Intuition,Thinking,Judgement,No,No,4,3,3,3,4,Yes,Rationals
+Webbed,Female,ENFJ-A,Extrovert,Sensation,Feeling,Judgement,No,No,3,3,3,3,3,Yes,Gaurdian
+Webbed,Female,Consul,Extrovert,Intuition,Thinking,Perception,No,No,2,4,3,3,3,Yes,Rationals
+blip,Female,ENTJ-A,Extrovert,Intuition,Thinking,Judgement,Yes,Yes,4,5,5,5,5,Yes,Rationals
+blip,Male,ISFP-A,Extrovert,Intuition,Thinking,Judgement,No,Yes,3,5,5,5,5,Yes,Rationals
+cosmos,Male,ESFJ-A,Introvert,Sensation,Thinking,Judgement,No,Yes,3,5,5,5,5,Yes,Gaurdian
+cosmos,Male,INTP-P,Introvert,Intuition,Thinking,Perception,No,No,4,2,3,3,3,Yes,Rationals
+cosmos,Female,ENFJ-A,Introvert,Sensation,Feeling,Judgement,Yes,Yes,4,4,4,4,5,Yes,Gaurdian
+hugsforbugs,Female,ENFP-T,Extrovert,Intuition,Feeling,Perception,No,Yes,3,5,5,5,5,Yes,Idealists
+panic in the kernel,Male,ISTP-T,Extrovert,Sensation,Thinking,Perception,No,Yes,5,5,5,5,5,Yes,Artisans
